@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Task3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_loading">Загрузить</string>
+    <string name="loading">Loading ... \u0020</string>
+    <string name="ready">Ready</string>
+    <string name="fragment_retain_asynctask">Fragment Retain + AsyncTask</string>
+    <string name="go">Перейти к решению</string>
+    <string name="asynctaskloader">AsyncTaskLoader</string>
+    <string name="singleton">Singleton</string>
+    <string name="orientation_landscape">orientation: landscape</string>
+    <string name="orientation_portrait">orientation: portrait</string>
+    <string name="application">Application</string>
+    <string name="service">Service</string>
+</resources>
